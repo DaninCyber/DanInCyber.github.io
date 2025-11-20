@@ -1,0 +1,12 @@
+
+body.dark-mode {
+  background: #0d1117;
+  color: #c9d1d9;
+  font-family: Arial, sans-serif;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+a { color: #58a6ff; }
