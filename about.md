@@ -6,21 +6,74 @@ permalink: /about/
 
 # About Me
 
-<div style="padding: 2rem 0;">
+Welcome to **DanInCyber** — a blog dedicated to exploring the world of cybersecurity through practical research, tutorials, writeups, and resources.
 
-Welcome to **CyberSec Insights**! This blog is dedicated to exploring the fascinating world of cybersecurity.
+I’m a cybersecurity learner and researcher who enjoys breaking things (legally), understanding how systems fail, and helping others build their skills in ethical hacking, defensive security, and malware analysis.
 
-## What You'll Find Here
+---
 
-- 🔍 **In-depth tutorials** on penetration testing and ethical hacking
-- 🏆 **CTF writeups** from HackTheBox, TryHackMe, and other platforms
-- 🛠️ **Tool reviews** and guides for security professionals
-- 🔐 **Vulnerability analyses** and security research
-- 📚 **Learning resources** for aspiring security researchers
+# What You’ll Find Here
 
-## About the Author
+### 🔍 In-depth Tutorials  
+Hands-on guides for penetration testing, ethical hacking, and real-world security techniques.
 
-I'm a cybersecurity enthusiast passionate about sharing knowledge and helping others learn. Whether you're just starting out or looking to expand your skills, I hope you find something valuable here.
+### 🏆 CTF Writeups  
+Step-by-step solutions from HackTheBox, TryHackMe, and other platforms.
+
+### 🛠️ Tooling & Methodologies  
+Reviews and analysis of cybersecurity tools, frameworks, and workflows.
+
+### 🔐 Vulnerability Analysis  
+Breakdowns of vulnerabilities, exploitation methods, mitigations, and case studies.
+
+### 📚 Learning Resources  
+Roadmaps, curated resources, and career-guidance for aspiring researchers.
+
+---
+
+# Skills
+
+Below is a grid of my growing skills across offensive, defensive, and analytical security.
+
+<div class="skills-grid">
+
+### **🔴 Red Teaming**
+- Reconnaissance  
+- Web exploitation  
+- Privilege escalation  
+- Attack-path development  
+- Payload crafting
+
+### **🔵 Blue Teaming**
+- Log analysis  
+- SIEM usage  
+- Threat hunting  
+- Memory forensics  
+- Incident triage
+
+### **🐛 Malware Analysis**
+- Behavioral analysis  
+- Static & dynamic analysis  
+- Reverse engineering basics  
+- Sandboxing & detonation  
+- Signature extraction
+
+### **❗ Vulnerability Research**
+- CVE analysis  
+- Misconfiguration detection  
+- Exploit development fundamentals  
+- Threat modeling  
+
+### **🛠 Tools & Frameworks**
+- Burp Suite  
+- Nmap / RustScan  
+- Metasploit  
+- Wireshark  
+- Volatility  
+- CyberChef  
+- Linux (SysAdmin basics)
+
+</div>
 
 ## Get in Touch
 
