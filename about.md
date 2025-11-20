@@ -33,36 +33,62 @@ Roadmaps, curated resources, and career-guidance for aspiring researchers.
 
 # Skills
 
-Below is a grid of my growing skills across offensive, defensive, and analytical security.
-
 <div class="skills-grid">
 
-### **🔴 Red Teaming**
-- Reconnaissance  
-- Web exploitation  
-- Privilege escalation  
-- Attack-path development  
-- Payload crafting
+  <div>
+    <h3>🔴 Red Teaming</h3>
+    <ul>
+      <li>Reconnaissance</li>
+      <li>Web exploitation</li>
+      <li>Privilege escalation</li>
+      <li>Payload crafting</li>
+    </ul>
+  </div>
 
-### **🔵 Blue Teaming**
-- Log analysis  
-- SIEM usage  
-- Threat hunting  
-- Memory forensics  
-- Incident triage
+  <div>
+    <h3>🔵 Blue Teaming</h3>
+    <ul>
+      <li>Threat hunting</li>
+      <li>SIEM analysis</li>
+      <li>Log analysis</li>
+      <li>Incident response</li>
+    </ul>
+  </div>
 
-### **🐛 Malware Analysis**
-- Behavioral analysis  
-- Static & dynamic analysis  
-- Reverse engineering basics  
-- Sandboxing & detonation  
-- Signature extraction
+  <div>
+    <h3>🐛 Malware Analysis</h3>
+    <ul>
+      <li>Static analysis</li>
+      <li>Dynamic analysis</li>
+      <li>Sandboxing</li>
+      <li>RE fundamentals</li>
+    </ul>
+  </div>
 
-### **❗ Vulnerability Research**
-- CVE analysis  
-- Misconfiguration detection  
-- Exploit development fundamentals  
-- Threat modeling  
+  <div>
+    <h3>❗ Vulnerability Research</h3>
+    <ul>
+      <li>CVE analysis</li>
+      <li>Exploit fundamentals</li>
+      <li>Threat modeling</li>
+      <li>Misconfiguration testing</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>🛠 Tools</h3>
+    <ul>
+      <li>Burp Suite</li>
+      <li>Metasploit</li>
+      <li>Nmap / RustScan</li>
+      <li>Wireshark</li>
+      <li>Volatility</li>
+      <li>Linux</li>
+    </ul>
+  </div>
+
+</div>
+
 
 ### **🛠 Tools & Frameworks**
 - Burp Suite  
