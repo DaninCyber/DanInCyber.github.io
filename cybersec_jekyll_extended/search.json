@@ -1,1 +1,0 @@
-{{ site.posts | map: 'to_liquid' | jsonify }}
